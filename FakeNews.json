@@ -1,0 +1,72 @@
+{
+"Ifyouonlynews": {
+    "link": "http://www.Ifyouonlynews.com/"
+  },
+"Nationalreport": {
+    "link": "http://www.Nationalreport.net/"
+  },
+"Realnewsrightnow": {
+    "link": "http://www.Realnewsrightnow.com/"
+  },
+"Civictribune": {
+    "link": "http://www.Civictribune.com/"
+  },
+"React365": {
+    "link": "http://www.React365.com/"
+  },
+"Burrardstreetjournal": {
+    "link": "http://www.Burrardstreetjournal.com/"
+  },
+"Empireherald": {
+    "link": "http://www.Empireherald.com/"
+  },
+"Now8news": {
+    "link": "http://www.Now8news.com/"
+  },
+"Christiantimes": {
+    "link": "http://www.Christiantimes.com/"
+  },
+"Thebostontribune": {
+    "link": "http://www.Thebostontribune.com/"
+  },
+"Huzlers": {
+    "link": "http://www.Huzlers.com/"
+  },
+"Politicops": {
+    "link": "http://www.Politicops.com/"
+  },
+"Empirenews": {
+    "link": "http://www.Empirenews.net/"
+  },
+"theonion": {
+    "link": "http://www.theonion.com/"
+  },
+"Worldnewsreport": {
+    "link": "http://www.Worldnewsreport.com/"
+  },
+"Yournewswire": {
+    "link": "http://www.Yournewswire.com/"
+  },
+"Rilenews": {
+    "link": "http://www.Rilenews.com/"
+  },
+"Abcnews": {
+    "link": "http://www.Abcnews.com.co/"
+  },
+"70news": {
+    "link": "http://www.70news.wordpress.com/"
+  },
+"Thedcgazette": {
+    "link": "http://www.Thedcgazette.com/"
+  },
+"newspunch": {
+    "link": "https://newspunch.com/"
+  },
+  "infowars": {
+    "rss": "https://www.infowars.com/feed/custom_feed_rss",
+    "link": "https://www.infowars.com/"
+  },
+ "breitbart": {
+    "link": "https://www.breitbart.com/"
+  }
+}
